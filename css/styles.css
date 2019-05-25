@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #EAF9F9;
+}
+h1{
+  color: #66BFBF;
+  width: 30%;
+  margin: 50px auto 0 auto;
+  font-family: cursive;
+  font-size: 3em;
+  font-weight: normal;
+}
+h2{
+  color: #66BFBF;
+  font-family: cursive;
+  font-size: 2.5em;
+    font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: cursive;
+    font-weight: normal;
+    text-align: center;
+}
+.mountain{
+  border-top-left-radius: 40%;
+  border-top-right-radius: 40%;
+}
+.intro{
+  background-color: #EAF9F5;
+  position: relative;
+  padding: 100px;
+}
+.personal{
+  margin: 100px auto 100px auto;
+  width: 300px;
+}
+.edit{
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.sprout{
+  width: 50%;
+  float: right;
+}
+.skill-row{
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+p{
+  line-height: 2;
+}
+footer{
+  display: inline-block;
+  margin: 50px 10px 0px 0;
+}
+.footer-div{
+  height: auto;
+  width: 100%;
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  }
+.footer-div img{
+  width:2%;
+}
+.copyright_sign{
+height: auto;
+width: 100%;
+background-color: #66BFBF;
+margin-bottom: 0;
+}
+a{
+  text-decoration: none;
+}
+.smile{
+width: 50%;
+float: left;
+margin-right: 30px;
+}
+.gear{
+  width: 50%;
+  float: right;
+}
+.like {
+width: 50%;
+float: left;
+
+}
